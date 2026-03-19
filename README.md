@@ -5,4 +5,4 @@
 
 ## 🛠 Технологии, которые я изучаю:
 - **Frontend**: HTML5, CSS3, Markdown.
-- **Инструменты**: Git, CLion 2025.
+- **Инструменты**: Git, JetBrains CLion 2025.
